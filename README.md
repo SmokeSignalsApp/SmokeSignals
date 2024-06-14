@@ -50,12 +50,12 @@ Let us know if you are interested in desktop apps for Windows, Mac or Linux.
 
 <small>_Come with us on our journey. We'd love to have you join us._</small>
 
-### [Join our waitlist, we will notify you when Smoke Signals is available.  We'd love to have you with us on our journey.](https://www.smokesignalsapp.net#WaitList)
+## Join our [waitlist](https://www.smokesignalsapp.net#WaitList), we will notify you when Smoke Signals is available.  We'd love to have you with us on our journey.
 
 ### Coming Soon
 
 <img src="/images/blog-detail-15.png" alt="Coming soon to your app store." width="240px">
+  
+### We're on:
 
-### We're on:</p>
-
-<p align="center"><img src="/images/twitter-x-logo-png-9.png" alt="We're on X" width="120px"></p>
+<a href="https://x.com/SmokeSignalsIM"><img src="/images/twitter-x-logo-png-9.png" alt="We're on X" width="120px"></a>
