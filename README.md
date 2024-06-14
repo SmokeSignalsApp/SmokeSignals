@@ -1,4 +1,6 @@
-# SmokeSignals
+# Smoke Signals
+
+![Screenshot of a cartoon style chat app with abstract chat bubbles.](/images/cartoon_mobile_small.jpeg)
 
 Genuinely Private Messaging
 
