@@ -4,7 +4,7 @@ You can discover more about Smoke Signals [here](https://www.smokesignalsapp.net
 
 Please consider signing up to our [WaitList](https://www.smokesignalsapp.net#WaitList) we would love to have you join us on our journey.
 
-<img src="/images/cartoon_mobile_small.jpeg" alt="Cartoon style chat app with abstract chat bubbles." width="300px">
+<p align="center"><img src="/images/cartoon_mobile_small.jpeg" alt="Cartoon style chat app with abstract chat bubbles." width="300px"></p>
 
 ##### Genuinely Private Messaging
 In the coming months we are launching a new approach to Private Instant Messaging where the strongest encryption ensures the highest possible level of privacy. This means messages you send can ONLY be read by the intended recipient(s) and never by a middleman.
@@ -17,9 +17,9 @@ Signing up in the Smoke Signals app does not require a phone number or an email 
 
 [Join The WaitList](https://www.smokesignalsapp.net#WaitList)
 
-<img src="/images/native_indian_style_older_wiser_sitting.jpg" alt="Smoke Signals used to communicatate Quickly and Safely over large distances." width="480px">
+<img src="/images/native_indian_style_older_wiser_sitting.jpg" alt="Smoke Signals used to communicatate Quickly and Safely over large distances." width="480px"></p>
 
-<small>_Native Americans used smoke signals or beacons to communicate safely and quickly over large distances._</small>
+<small>_Native Americans used smoke signals or beacons to communicate safely and quickly over large distances._</small></p>
 
 #### No Centralized Server
 
@@ -56,7 +56,6 @@ Let us know if you are interested in desktop apps for Windows, Mac or Linux.
 
 <img src="/images/blog-detail-15.png" alt="Coming soon to your app store." width="240px">
 
-### We're on:
+### We're on:</p>
 
-<img src="/images/twitter-x-logo-png-9.png" alt="We're on X" width="120px">
-
+<p align="center"><img src="/images/twitter-x-logo-png-9.png" alt="We're on X" width="120px"></p>
